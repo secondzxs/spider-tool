@@ -113,7 +113,7 @@ def desativar_arranque():
         print("[2] Remover tudo do arranque")
         print("[0] Voltar ao menu principal")
         y = input("Opcao: ")
-
+        os.system('cls')
         if y == "1":
             os.system(
                 'powershell -Command "Get-CimInstance -ClassName Win32_StartupCommand | '
