@@ -28,4 +28,4 @@ used chatgpt in commands like powershell
 hope yall like
 
 
-scoop.sh>winget btw xD
+scoop.sh>winget btw
